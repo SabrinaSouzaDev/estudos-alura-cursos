@@ -15,3 +15,9 @@ Desenvolver o raciocínio lógico através da prática com JavaScript, abordando
 - Análise de problemas e **resolução lógica**
 
 ---
+
+## Requisitos de lógica esperados
+- Criar soluções eficientes e compreensíveis
+- Aplicar conceitos fundamentais de JavaScript
+- Evitar repetição de código com uso de funções
+- Trabalhar com eventos e manipulação do DOM (se aplicável ao desafio)

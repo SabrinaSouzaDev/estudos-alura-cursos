@@ -88,8 +88,15 @@ body {
 }
 
 .button-container {
-    width: 300px;
-    justify-content: center;
+  width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100px 200px;
+  gap: 10px;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+
 }
 
 /* Estilos de entrada de texto */
@@ -159,4 +166,17 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.result-list li {
+    animation: fadeIn 0.7 ease;
+}
+
+.button-reset {
+    grid-template-columns: auto;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0; transform: translateY(-10px);}
+    to { opacity: 1; transform:translateY(0);}
 }
