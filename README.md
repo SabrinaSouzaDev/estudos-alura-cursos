@@ -1,16 +1,17 @@
-# 🚀 Estudos de Programação e Desenvolvimento de Software
+# 💡 Desafio de Lógica com JavaScript
 
-Bem-vindo(a)! Este repositório foi criado para organizar e documentar meus estudos no mundo do desenvolvimento de software. Aqui você encontrará anotações, exercícios, projetos, links úteis e tudo mais que for relevante para a minha jornada como programadora.
-
----
-
-## 🧠 Objetivos do Repositório
-
-- Consolidar conhecimentos em diversas linguagens e tecnologias
-- Praticar habilidades de resolução de problemas e pensamento lógico
-- Compartilhar aprendizados com outros devs
-- Criar um histórico de evolução pessoal
+Este repositório contém um desafio voltado para o desenvolvimento de **habilidades em lógica de programação** utilizando JavaScript. A estrutura visual do projeto já está pronta com HTML e CSS fornecidos, permitindo que o foco seja totalmente direcionado à construção da lógica por trás do comportamento da aplicação.
 
 ---
 
-## 📚 Estrutura do Repositório
+## 🎯 Objetivo
+
+Desenvolver o raciocínio lógico através da prática com JavaScript, abordando:
+
+- Manipulação de dados com **arrays** e **objetos**
+- Uso eficaz de **condicionais**
+- Criação de **funções reutilizáveis**
+- Definição e controle de **variáveis**
+- Análise de problemas e **resolução lógica**
+
+---
