@@ -1,4 +1,4 @@
-# 💡 Desafio de Lógica com JavaScript
+# 💡 Desafio de Lógica com JavaScript Amigo Secreto
 
 Este repositório contém um desafio voltado para o desenvolvimento de **habilidades em lógica de programação** utilizando JavaScript. A estrutura visual do projeto já está pronta com HTML e CSS fornecidos, permitindo que o foco seja totalmente direcionado à construção da lógica por trás do comportamento da aplicação.
 
