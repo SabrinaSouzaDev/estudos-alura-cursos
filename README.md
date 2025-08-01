@@ -1,23 +1,46 @@
-# 💡 Desafio de Lógica com JavaScript Amigo Secreto
+# 🎁 Projeto: Amigo Secreto Interativo
 
-Este repositório contém um desafio voltado para o desenvolvimento de **habilidades em lógica de programação** utilizando JavaScript. A estrutura visual do projeto já está pronta com HTML e CSS fornecidos, permitindo que o foco seja totalmente direcionado à construção da lógica por trás do comportamento da aplicação.
-
----
-
-## 🎯 Objetivo
-
-Desenvolver o raciocínio lógico através da prática com JavaScript, abordando:
-
-- Manipulação de dados com **arrays** e **objetos**
-- Uso eficaz de **condicionais**
-- Criação de **funções reutilizáveis**
-- Definição e controle de **variáveis**
-- Análise de problemas e **resolução lógica**
+Este é um projeto web divertido e interativo para realizar sorteios de **amigo secreto** de forma justa, sem repetições e com revelações individuais. Ideal para festas, confraternizações e até desafios de lógica em desenvolvimento front-end!
 
 ---
 
-## Requisitos de lógica esperados
-- Criar soluções eficientes e compreensíveis
-- Aplicar conceitos fundamentais de JavaScript
-- Evitar repetição de código com uso de funções
-- Trabalhar com eventos e manipulação do DOM (se aplicável ao desafio)
+## 📸 Demonstração
+
+### ✅ Adicionando amigos
+
+![Adicionando amigos](assets/demo-adicionar.png)
+
+### 🎲 Sorteando amigo secreto
+
+![Sorteio individual](assets/demo-sorteio.png)
+
+📽️ Também é possível adicionar um vídeo demonstrando o uso:  
+**Sugestão:** `assets/demo-video.mp4`
+
+---
+
+## ✨ Funcionalidades
+
+- Adição de nomes à lista, com validação e prevenção de duplicados
+- Sorteio aleatório onde **ninguém sorteia a si mesmo**
+- Exibição individual dos resultados por clique, simulando suspense e interatividade
+- Botão para reiniciar lista e sortear novamente
+- Feedback visual para cada revelação com animação (fade-in)
+- Interface amigável e intuitiva, construída com HTML, CSS e JavaScript
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5:** Estrutura do projeto
+- **CSS3:** Estilização responsiva
+- **JavaScript:** Lógica de interação e sorteio
+- Fonts via Google Fonts: `Inter`, `Merriweather`
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/amigo-secreto.git
