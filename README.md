@@ -4,21 +4,6 @@ Este é um projeto web divertido e interativo para realizar sorteios de **amigo 
 
 ---
 
-## 📸 Demonstração
-
-### ✅ Adicionando amigos
-
-![Adicionando amigos](assets/demo-adicionar.png)
-
-### 🎲 Sorteando amigo secreto
-
-![Sorteio individual](assets/demo-sorteio.png)
-
-📽️ Também é possível adicionar um vídeo demonstrando o uso:  
-**Sugestão:** `assets/demo-video.mp4`
-
----
-
 ## ✨ Funcionalidades
 
 - Adição de nomes à lista, com validação e prevenção de duplicados
